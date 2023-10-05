@@ -44,6 +44,8 @@ The analysis can be broken down into the following stages:
 
 ### Machine Learning Model 1: Logistic Regression with Original Data
 
+![Report1](Images/Report%201.png)
+
 - Balanced Accuracy: 0.952
 - Precision (Label 0 - Healthy Loan): 1.00
 - Precision (Label 1 - High-Risk Loan): 0.85
@@ -54,6 +56,8 @@ The analysis can be broken down into the following stages:
 - Accuracy: 0.99
 
 ### Machine Learning Model 2: Logistic Regression with Resampled Data
+
+![Report2](Images/Report%202.png)
 
 - Balanced Accuracy: 0.994
 - Precision (Label 0 - Healthy Loan): 1.00
