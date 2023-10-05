@@ -44,7 +44,7 @@ The analysis can be broken down into the following stages:
 
 ### Machine Learning Model 1: Logistic Regression with Original Data
 
-http://localhost:8888/lab/tree/Documents/Documents/ASSIGNMENT9--07-08/Images/Report%201.png
+![Report 1](ASSIGNMENT9--07-08/Images/Report 1.png)
 
 - Balanced Accuracy: 0.952
 - Precision (Label 0 - Healthy Loan): 1.00
@@ -57,7 +57,7 @@ http://localhost:8888/lab/tree/Documents/Documents/ASSIGNMENT9--07-08/Images/Rep
 
 ### Machine Learning Model 2: Logistic Regression with Resampled Data
 
-http://localhost:8888/lab/tree/Documents/Documents/ASSIGNMENT9--07-08/Images/Report%202.png
+![Report 1](ASSIGNMENT9--07-08/Images/Report 2.png)
 
 - Balanced Accuracy: 0.994
 - Precision (Label 0 - Healthy Loan): 1.00
